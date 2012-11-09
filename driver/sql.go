@@ -9,7 +9,7 @@ import (
 	"database/sql/driver"
 	"errors"
 	"io"
-	"odbc"
+	"github.com/weigj/odbc"
 )
 
 func init() {
